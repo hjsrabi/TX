@@ -70,8 +70,6 @@ namespace TX
 
             y = int.Parse(textBox1.Text);
             serialPort1.BaudRate = y;
-            textBox1.Text = "";
-            label3.Text = y.ToString();
         }
 
         private void textBox1_KeyUp(object sender, KeyEventArgs e)
