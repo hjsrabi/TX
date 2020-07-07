@@ -1,0 +1,10 @@
+C:\Users\GTS\source\repos\TX\TX\bin\Debug\TX.exe.config
+C:\Users\GTS\source\repos\TX\TX\bin\Debug\TX.exe
+C:\Users\GTS\source\repos\TX\TX\bin\Debug\TX.pdb
+C:\Users\GTS\source\repos\TX\TX\obj\Debug\TX.csprojAssemblyReference.cache
+C:\Users\GTS\source\repos\TX\TX\obj\Debug\TX.Form1.resources
+C:\Users\GTS\source\repos\TX\TX\obj\Debug\TX.Properties.Resources.resources
+C:\Users\GTS\source\repos\TX\TX\obj\Debug\TX.csproj.GenerateResource.cache
+C:\Users\GTS\source\repos\TX\TX\obj\Debug\TX.csproj.CoreCompileInputs.cache
+C:\Users\GTS\source\repos\TX\TX\obj\Debug\TX.exe
+C:\Users\GTS\source\repos\TX\TX\obj\Debug\TX.pdb
